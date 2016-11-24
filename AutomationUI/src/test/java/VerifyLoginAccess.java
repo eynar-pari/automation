@@ -23,7 +23,7 @@ public class VerifyLoginAccess {
 
     @Test
     public void addProjectTest(){
-       loginPage.login("eynar.pari@gmail.com","P@ssword");
+       loginPage.login("eynar.pari@gmail.com","Control123");
     }
 
     @AfterMethod

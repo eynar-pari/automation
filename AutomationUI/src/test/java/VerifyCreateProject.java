@@ -20,7 +20,7 @@ public class VerifyCreateProject {
         String baseUrl = "http://todo.ly/";
         Driver.getCurrentBrowser().getDriver().navigate().to(baseUrl);
         loginPage=new LoginPage();
-        loginPage.login("eynar.pari@gmail.com","P@ssword");
+        loginPage.login("eynar.pari@gmail.com","Control123");
         menuLeftBar= new MenuLeftBar();
 
     }
