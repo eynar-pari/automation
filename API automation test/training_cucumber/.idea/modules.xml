@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/riot-automation.iml" filepath="$PROJECT_DIR$/riot-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training_cucumber.iml" filepath="$PROJECT_DIR$/training_cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vizix-qa-automation.iml" filepath="$PROJECT_DIR$/vizix-qa-automation.iml" />
+    </modules>
+  </component>
+</project>

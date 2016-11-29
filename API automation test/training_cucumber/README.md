@@ -1,0 +1,1 @@
+Command : gradle cucumber -Pcategory=@Acceptance
